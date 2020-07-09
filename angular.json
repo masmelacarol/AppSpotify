@@ -115,6 +115,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "appSpotify"
+    }
+  },
+  "defaultProject": "appSpotify",
+  "cli": {
+    "analytics": "13113d0e-679c-442e-961d-b239da806ee3"
+  }
 }
